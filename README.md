@@ -1,3 +1,5 @@
+[![Daniel Sanchez](https://github.com/DanSan122/DanSan122/blob/main/img/banner.png)]
+
 ## Hey, I'm Daniel!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Sanchez%20Gutierrez-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/daniel-sanchez-584055278)](https://www.linkedin.com/in/daniel-sanchez-584055278)
