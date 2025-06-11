@@ -16,3 +16,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanSan122&theme=tokyonight&show_icons=true)
 
+![Most Used Languages](https://raw.githubusercontent.com/DanSan122/github-stats-transparent/output/generated/languages.svg)
