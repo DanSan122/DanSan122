@@ -12,7 +12,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DanSan122&theme=tokyonight)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanSan122&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanSan122&layout=donut)](https://github.com/anuraghazra/github-readme-stats-transparent)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanSan122&theme=tokyonight&show_icons=true)
 
