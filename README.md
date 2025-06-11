@@ -1,4 +1,4 @@
-[![Daniel Sanchez](https://github.com/DanSan122/DanSan122/blob/main/img/banner.png)]
+[![Daniel Sanchez](https://github.com/DanSan122/DanSan122/blob/master/img/banner.png)]
 
 ## Hey, I'm Daniel!
 
