@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-daniel.sanchez.guti-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:daniel.sanchez.guti@gmail.com)](mailto:daniel.sanchez.guti@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/DanSan122?label=Follow&style=social)](https://github.com/DanSan122) 
 
-* I am a student Software Enge from [Lima, Peru]
+* I am a student Software Engineering from [Lima, Peru]
 * Techstack: `.js`, `.cpp`, `.jsx`, `.css`, `.py` 
 
 
